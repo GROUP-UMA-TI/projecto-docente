@@ -2,7 +2,7 @@
 
 @section('content')
 
-              <div class="row">
+                        <div class="row">
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body pb-0">
@@ -301,7 +301,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <div class="avatar-md">
                                                                     <div class="product-img avatar-title img-thumbnail bg-primary-subtle  border-0">
-                                                                        <img src="/assets/images/product/img-1.png" class="img-fluid" alt="">
+                                                                        <img src="assets/images/product/img-1.png" class="img-fluid" alt="">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -321,7 +321,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <div class="avatar-md">
                                                                         <div class="product-img avatar-title img-thumbnail bg-success-subtle  border-0">
-                                                                            <img src="/assets/images/product/img-8.png" class="img-fluid" alt="">
+                                                                            <img src="assets/images/product/img-8.png" class="img-fluid" alt="">
                                                                         </div>
                                                                 </div>
                                                             </div>
@@ -341,7 +341,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <div class="avatar-md">
                                                                     <div class="product-img avatar-title img-thumbnail bg-danger-subtle  border-0">
-                                                                        <img src="/assets/images/product/img-3.png" class="img-fluid" alt="">
+                                                                        <img src="assets/images/product/img-3.png" class="img-fluid" alt="">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -361,7 +361,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <div class="avatar-md">
                                                                     <div class="product-img avatar-title img-thumbnail bg-success-subtle  border-0">
-                                                                        <img src="/assets/images/product/img-4.png" class="img-fluid" alt="">
+                                                                        <img src="assets/images/product/img-4.png" class="img-fluid" alt="">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -381,7 +381,7 @@
                                                             <div class="flex-shrink-0">
                                                                 <div class="avatar-md">
                                                                     <div class="product-img avatar-title img-thumbnail bg-danger-subtle  border-0" >
-                                                                        <img src="/assets/images/product/img-5.png" class="img-fluid" alt="">
+                                                                        <img src="assets/images/product/img-5.png" class="img-fluid" alt="">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -429,7 +429,7 @@
                                                 <div class="mx-n4" data-simplebar style="max-height: 421px;">
                                                     <div class="border-bottom loyal-customers-box pt-2">
                                                         <div class="d-flex align-items-center">
-                                                            <img src="/assets/images/users/avatar-4.jpg" class="rounded-circle avatar img-thumbnail" alt="">
+                                                            <img src="assets/images/users/avatar-4.jpg" class="rounded-circle avatar img-thumbnail" alt="">
                                                             <div class="flex-grow-1 ms-3 overflow-hidden">
                                                                 <h5 class="font-size-15 mb-1 text-truncate">Michelle Bernard</h5>
                                                                 <p class="text-muted text-truncate mb-0">Michelle@gmail.com</p>
@@ -443,7 +443,7 @@
             
                                                     <div class="border-bottom loyal-customers-box">
                                                         <div class="d-flex align-items-center">
-                                                            <img src="/assets/images/users/avatar-5.jpg" class="rounded-circle avatar img-thumbnail" alt="">
+                                                            <img src="assets/images/users/avatar-5.jpg" class="rounded-circle avatar img-thumbnail" alt="">
                                                             <div class="flex-grow-1 ms-3 overflow-hidden">
                                                                 <h5 class="font-size-15 mb-1 text-truncate">David Grajeda</h5>
                                                                 <p class="text-muted text-truncate mb-0">David@gmail.com</p>
@@ -457,7 +457,7 @@
             
                                                     <div class="border-bottom loyal-customers-box">
                                                         <div class="d-flex align-items-center">
-                                                            <img src="/assets/images/users/avatar-6.jpg" class="rounded-circle avatar img-thumbnail" alt="">
+                                                            <img src="assets/images/users/avatar-6.jpg" class="rounded-circle avatar img-thumbnail" alt="">
                                                             <div class="flex-grow-1 ms-3 overflow-hidden">
                                                                 <h5 class="font-size-15 mb-1 text-truncate">Charles Roman</h5>
                                                                 <p class="text-muted text-truncate mb-0">Charles@gmail.com</p>
@@ -471,7 +471,7 @@
             
                                                     <div class="border-bottom loyal-customers-box">
                                                         <div class="d-flex align-items-center">
-                                                            <img src="/assets/images/users/avatar-7.jpg" class="rounded-circle avatar img-thumbnail" alt="">
+                                                            <img src="assets/images/users/avatar-7.jpg" class="rounded-circle avatar img-thumbnail" alt="">
                                                             <div class="flex-grow-1 ms-3 overflow-hidden">
                                                                 <h5 class="font-size-15 mb-1 text-truncate">David Reynolds</h5>
                                                                 <p class="text-muted text-truncate mb-0">David@gmail.com</p>
@@ -485,7 +485,7 @@
             
                                                     <div class="border-bottom loyal-customers-box">
                                                         <div class="d-flex align-items-center">
-                                                            <img src="/assets/images/users/avatar-8.jpg" class="rounded-circle avatar img-thumbnail" alt="">
+                                                            <img src="assets/images/users/avatar-8.jpg" class="rounded-circle avatar img-thumbnail" alt="">
                                                             <div class="flex-grow-1 ms-3 overflow-hidden">
                                                                 <h5 class="font-size-15 mb-1 text-truncate">Marion Munroe</h5>
                                                                 <p class="text-muted text-truncate mb-0">Marion@gmail.com</p>
@@ -499,7 +499,7 @@
             
                                                     <div class="py-3 loyal-customers-box">
                                                         <div class="d-flex align-items-center">
-                                                            <img src="/assets/images/users/avatar-5.jpg" class="rounded-circle avatar img-thumbnail" alt="">
+                                                            <img src="assets/images/users/avatar-5.jpg" class="rounded-circle avatar img-thumbnail" alt="">
                                                             <div class="flex-grow-1 ms-3 overflow-hidden">
                                                                 <h5 class="font-size-15 mb-1 text-truncate">Christina Emerson</h5>
                                                                 <p class="text-muted text-truncate mb-0">Christina@gmail.com</p>
@@ -645,7 +645,7 @@
                                                                     <tr>
                                                                         <td>
                                                                             <div class="d-flex align-items-center">
-                                                                                <img src="/assets/images/flags/us.jpg" class="rounded" alt="user-image" height="18">
+                                                                                <img src="assets/images/flags/us.jpg" class="rounded" alt="user-image" height="18">
                                                                                 <div class="flex-grow-1 ms-3">
                                                                                     <p class="mb-0 text-truncate">United States</p>
                                                                                 </div>
@@ -658,7 +658,7 @@
                                                                     <tr>
                                                                         <td>
                                                                             <div class="d-flex align-items-center">
-                                                                                <img src="/assets/images/flags/italy.jpg" class="rounded" alt="user-image" height="18">
+                                                                                <img src="assets/images/flags/italy.jpg" class="rounded" alt="user-image" height="18">
                                                                                 <div class="flex-grow-1 ms-3">
                                                                                     <p class="mb-0 text-truncate">Italy</p>
                                                                                 </div>
@@ -671,7 +671,7 @@
                                                                     <tr>
                                                                         <td>
                                                                             <div class="d-flex align-items-center">
-                                                                                <img src="/assets/images/flags/spain.jpg" class="rounded" alt="user-image" height="18">
+                                                                                <img src="assets/images/flags/spain.jpg" class="rounded" alt="user-image" height="18">
                                                                                 <div class="flex-grow-1 ms-3">
                                                                                     <p class="mb-0 text-truncate">Spain</p>
                                                                                 </div>
@@ -684,7 +684,7 @@
                                                                     <tr>
                                                                         <td>
                                                                             <div class="d-flex align-items-center">
-                                                                                <img src="/assets/images/flags/french.jpg" class="rounded" alt="user-image" height="18">
+                                                                                <img src="assets/images/flags/french.jpg" class="rounded" alt="user-image" height="18">
                                                                                 <div class="flex-grow-1 ms-3">
                                                                                     <p class="mb-0 text-truncate">French</p>
                                                                                 </div>
@@ -750,7 +750,7 @@
                                                                 <td class="fw-semibold">#562354</td>
                                                                 <td style="width: 190px;">
                                                                     <div class="d-flex align-items-center">
-                                                                        <img class="rounded-circle avatar-sm" src="/assets/images/users/avatar-1.jpg" alt="">
+                                                                        <img class="rounded-circle avatar-sm" src="assets/images/users/avatar-1.jpg" alt="">
                                                                         <div class="flex-grow-1 ms-3">
                                                                             Neal Matthews
                                                                         </div>
@@ -788,7 +788,7 @@
                                                                 <td class="fw-semibold">#485625</td>
                                                                 <td style="width: 190px;">
                                                                     <div class="d-flex align-items-center">
-                                                                        <img class="rounded-circle avatar-sm" src="/assets/images/users/avatar-2.jpg" alt="">
+                                                                        <img class="rounded-circle avatar-sm" src="assets/images/users/avatar-2.jpg" alt="">
                                                                         <div class="flex-grow-1 ms-3">
                                                                             Connie Franco
                                                                         </div>
@@ -826,7 +826,7 @@
                                                                 <td class="fw-semibold">#321458</td>
                                                                 <td style="width: 190px;">
                                                                     <div class="d-flex align-items-center">
-                                                                        <img class="rounded-circle avatar-sm" src="/assets/images/users/avatar-3.jpg" alt="">
+                                                                        <img class="rounded-circle avatar-sm" src="assets/images/users/avatar-3.jpg" alt="">
                                                                         <div class="flex-grow-1 ms-3">
                                                                             Adella Perez
                                                                         </div>
@@ -864,7 +864,7 @@
                                                                 <td class="fw-semibold">#214569</td>
                                                                 <td style="width: 190px;">
                                                                     <div class="d-flex align-items-center">
-                                                                        <img class="rounded-circle avatar-sm" src="/assets/images/users/avatar-4.jpg" alt="">
+                                                                        <img class="rounded-circle avatar-sm" src="assets/images/users/avatar-4.jpg" alt="">
                                                                         <div class="flex-grow-1 ms-3">
                                                                             Theresa Mayers
                                                                         </div>
@@ -902,7 +902,7 @@
                                                                 <td class="fw-semibold">#565423</td>
                                                                 <td style="width: 190px;">
                                                                     <div class="d-flex align-items-center">
-                                                                        <img class="rounded-circle avatar-sm" src="/assets/images/users/avatar-5.jpg" alt="">
+                                                                        <img class="rounded-circle avatar-sm" src="assets/images/users/avatar-5.jpg" alt="">
                                                                         <div class="flex-grow-1 ms-3">
                                                                             Oliver Gonzales
                                                                         </div>
@@ -940,7 +940,7 @@
                                                                 <td class="fw-semibold">#565423</td>
                                                                 <td style="width: 190px;">
                                                                     <div class="d-flex align-items-center">
-                                                                        <img class="rounded-circle avatar-sm" src="/assets/images/users/avatar-6.jpg" alt="">
+                                                                        <img class="rounded-circle avatar-sm" src="assets/images/users/avatar-6.jpg" alt="">
                                                                         <div class="flex-grow-1 ms-3">
                                                                             Willie Verner
                                                                         </div>
@@ -977,7 +977,6 @@
                                     </div>
                                 </div>
                         </div>
-                        <!-- end row -->
 
 @endsection
 
